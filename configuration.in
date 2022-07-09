@@ -1,0 +1,6 @@
+nbEtoile	=	1000
+rayon		=	500
+epaisseur	= 	20
+V0		=	80
+tfin		=	4
+dt		=	0.01
