@@ -5,5 +5,5 @@ An homemade script in Processing is used to visualize results.
 
 Here is the video of the result :
 
-https://github.com/joseph-elf/barnespara/assets/61538081/295e3bd2-7e08-4aed-b9ac-a5bea2604c97
+https://github.com/joseph-elf/Barnes-Hut/assets/61538081/91bc98d3-6885-4221-9a98-d3de53eaa7d8
 
