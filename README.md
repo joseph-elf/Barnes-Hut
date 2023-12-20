@@ -1,5 +1,5 @@
 ## Barnes-Hut Algorithm for N-body simulation
-
+You can find details of this project in ReportJosephEl-Forzli.pdf.
 Using a parallelized version of the Barnes-Hut algorithm, a galaxy is simulated using 100 CPU on an AWS server. 
 An homemade script in Processing is used to visualize results. 
 
